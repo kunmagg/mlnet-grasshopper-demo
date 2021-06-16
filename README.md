@@ -1,5 +1,5 @@
 
-This guide shows you how to train a model in [ML.NET](http://ml.NET) and create a Grasshopper component that uses said model. In this example, we predict the square root of a number using the `sqrt_dataset.csv`-file that contains 1000000 real numbers between 0-1000 and their square root. For installation and setup of ML.NET, follow the official Microsoft guide: [https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro](https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro) 
+This guide shows you how to train a model in [ML.NET](http://ml.NET) and create a Grasshopper component that uses said model. In this example, we predict the square root of a number using the `sqrt_dataset.csv`-file that contains 100 000 real numbers between 0-1000 and their square root. For installation and setup of ML.NET, follow the official Microsoft guide: [https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro](https://dotnet.microsoft.com/learn/ml-dotnet/get-started-tutorial/intro) 
 
 Here, *Project*, refers to the name of the project you want to add [ML.NET](http://ml.NET) to.
 
